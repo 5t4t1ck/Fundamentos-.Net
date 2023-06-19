@@ -1,0 +1,15 @@
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\bin\Debug\net7.0\MiProyecto.exe
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\bin\Debug\net7.0\MiProyecto.deps.json
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\bin\Debug\net7.0\MiProyecto.runtimeconfig.json
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\bin\Debug\net7.0\MiProyecto.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\bin\Debug\net7.0\MiProyecto.pdb
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.AssemblyReference.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfo.cs
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\refint\MiProyecto.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.pdb
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\MiProyecto.genruntimeconfig.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\MiProyecto\obj\Debug\net7.0\ref\MiProyecto.dll
