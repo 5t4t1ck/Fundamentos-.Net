@@ -1,0 +1,17 @@
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\bin\Debug\net7.0\Tarea1.exe
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\bin\Debug\net7.0\Tarea1.deps.json
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\bin\Debug\net7.0\Tarea1.runtimeconfig.json
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\bin\Debug\net7.0\Tarea1.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\bin\Debug\net7.0\Tarea1.pdb
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.csproj.AssemblyReference.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.AssemblyInfo.cs
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\refint\Tarea1.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.pdb
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.genruntimeconfig.cache
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\ref\Tarea1.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\rodne\OneDrive\Documentos\GitHub\Fundamentos-.Net\Colaboraciones\Rodney-Armas\Tarea1\obj\Debug\net7.0\Tarea1.csproj.CopyComplete
